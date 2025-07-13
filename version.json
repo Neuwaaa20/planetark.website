@@ -1,0 +1,20 @@
+{
+  "launcher": {
+    "version": "1.0.0",
+    "url": "https://planetarkmc.github.io/downloads/ArkLauncher.jar",
+    "sha256": "exemplevaleurhash..."
+  },
+  "loader": {
+    "version": "1.2.0",
+    "url": "https://planetarkmc.github.io/downloads/rocketarkmc.zip",
+    "sha256": "autrehash..."
+  },
+  "modpack": {
+    "version": "4.5.7",
+    "url": "https://planetarkmc.github.io/downloads/modpack.zip",
+    "sha256": "encoreunhash..."
+  },
+  "server": {
+    "ip": "play.planetarkmc.net"
+  }
+}
